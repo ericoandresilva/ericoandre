@@ -5,7 +5,7 @@ I'm a software developer towards fullstack. I am a person curious about new tech
 
 The languages that I have most knowledge at the moment are **Java, Python** 👨‍💻.  👩•💻But I also have knowledge in other languages, I am currently working with **Typescript** and **Javascript**. I have also worked with frameworks such as **AngularJS, ReactJS,** among others.
 
-By the way I am open to new ideas, new projects, if you want to talk to me feel free. You can contact me at 📫::point_right: [![Linkedin Badge](https://img.shields.io/badge/erico-andre-12412196?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erico-andre-12412196)](https://www.linkedin.com/in/erico-andre-12412196)[![Gmail Badge](https://img.shields.io/badge/-ericoandresilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoandresilva@gmail.com)](mailto:ericoandresilva@gmail.com)
+By the way I am open to new ideas, new projects, if you want to talk to me feel free. You can contact me at 📫::point_right: [![Linkedin Badge](https://img.shields.io/badge/erico-andre-12412196?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erico-andre-12412196)](https://www.linkedin.com/in/erico-andre-12412196). [![Gmail Badge](https://img.shields.io/badge/-ericoandresilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoandresilva@gmail.com)](mailto:ericoandresilva@gmail.com)
 
 
 <!--
