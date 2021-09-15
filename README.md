@@ -1,23 +1,30 @@
 ### Hi there 👋
 
-Hello, my name is***Erico Andre da Silva***, I am a person curious about new technologies and computer languages and you will find me occasionally learning a new language or risking something related lol. Here you will find some projects that are part of my continuous learning! 📘 📖 😄.
+Hello, my name is ***Erico Andre da Silva***, I am a person curious about new technologies and computer languages and you will find me occasionally learning a new language or risking something related lol. Here you will find some projects that are part of my continuous learning! 📘 📖 😄.
 
+By the way I am open to new ideas, new projects, if you want to talk to me feel free. You can contact me at 📫:
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/erico-andre-12412196/)
+[![Gmail Badge](https://img.shields.io/badge/-ericoandresilva@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ericoandresilva@gmail.com)](mailto:ericoandresilva@gmail.com)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+![csharp](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=239120)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![HTML5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
+![sass](https://img.shields.io/badge/Code-sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
+![bootstrap](https://img.shields.io/badge/Tools-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
+![Nodejs](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=339933)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4169E1)
+![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=F05032)
 
-
-<!-- 
-
-<p >
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-</p>
- -->
+ 
 ## &#x1f4c8; GitHub Stats
 
 
@@ -28,8 +35,4 @@ Hello, my name is***Erico Andre da Silva***, I am a person curious about new tec
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericoandre&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-By the way I am open to new ideas, new projects, if you want to talk to me feel free. You can contact me at 📫:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]() 
-
-[![Gmail Badge](https://img.shields.io/badge/-ericoandresilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericoandresilva@gmail.com)](mailto:ericoandresilva@gmail.com)
