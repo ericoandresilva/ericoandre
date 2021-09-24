@@ -8,8 +8,8 @@ By the way I am open to new ideas, new projects, if you want to talk to me feel 
 [![Gmail Badge](https://img.shields.io/badge/-ericoandresilva@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ericoandresilva@gmail.com)](mailto:ericoandresilva@gmail.com)
 
 ## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+
+<!-- ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![csharp](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=239120)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
@@ -17,6 +17,8 @@ By the way I am open to new ideas, new projects, if you want to talk to me feel 
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
 ![sass](https://img.shields.io/badge/Code-sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699)
 ![bootstrap](https://img.shields.io/badge/Tools-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=7952B3)
+ -->
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![Nodejs](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
